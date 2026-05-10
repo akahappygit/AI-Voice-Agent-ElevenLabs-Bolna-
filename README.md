@@ -178,6 +178,10 @@ Key observations during testing:
 - iterative prompt tuning improved consistency significantly
 
 ---
+# Author and  Links 
+
+- Ayush Kumar Anand 
+Linkedin : https:https://www.linkedin.com/in/ayush-kumar-anand11///www.linkedin.com/in/ayush-kumar-anand11/
 
 # Repository Structure
 
@@ -188,6 +192,7 @@ assets/
 
 docs/
    testing-results.md
+
 
 prompts/
    gold-loan-sales-agent.md
